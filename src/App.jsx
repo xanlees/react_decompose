@@ -9,7 +9,7 @@ function App() {
         <span className="welcome__text">Sticky Header!</span>
       </section>
       <header className="header">
-        <h1 className="header__title">Site Name</h1>
+        <h1 className="header__title">Now is my Site Name</h1>
         <nav className="navigation">
           <a className="navigation__link" href="#about">
             About
@@ -19,6 +19,9 @@ function App() {
           </a>
           <a className="navigation__link" href="#contact">
             Contact
+          </a>
+          <a className="navigation__link" href="#setting">
+            Setting
           </a>
         </nav>
       </header>
