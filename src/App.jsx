@@ -20,9 +20,6 @@ function App() {
           <a className="navigation__link" href="#contact">
             Contact
           </a>
-          <a className="navigation__link" href="#setting">
-            Setting
-          </a>
         </nav>
       </header>
       <article className="article">
